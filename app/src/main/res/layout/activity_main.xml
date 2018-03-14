@@ -55,7 +55,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:ems="10"
-        android:hint="in put your name"
+        android:hint="input your name"
         android:inputType="textPersonName"
         android:textSize="@dimen/h2"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView3"
